@@ -1,0 +1,1 @@
+Lumberjack job for QBCore made in typescript
